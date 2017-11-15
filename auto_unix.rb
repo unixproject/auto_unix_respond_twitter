@@ -13,10 +13,10 @@ every night.', 'BUILD THE WALL FOR KEEP INSIDE SICK AND MASS MURDER SHOOTER AMER
 'jews did it.', 'dank bro.', 
 'Ban the bomb.  Save the world for conventional warfare.', 'NSA is Watching You.', 'ur moron piece of nibba.', 'ROFLMFAOWPMACAATSTSHTIFAIIAGTBSTABHOL.', '911 meat.', 'tranny fat.', 'Suck dong in hell with ur mom.']
 client = Twitter::REST::Client.new do |config|
-  config.consumer_key = 'Z24VDHsr4dayVSQXAGsy0fqrl'
-  config.consumer_secret = 'vinadangkhoE7YcLSL8Omxqg0ZWI5fHwmrDcvSBIXYrxAYLc1I'
-  config.access_token = '1029254814-wwNqEM0tZGLqYjsX2UE2alL6WeDesSJjmb1xAJM'
-  config.access_token_secret = 'orS4LUHPlp1p1n0D7xp46r9mLoqRuOpEGE5aC9PnpuIdW'
+  config.consumer_key = 'Z24VDHsr4dayLSQXAGsy0fqXl'
+  config.consumer_secret = 'vinadangkhoE7YcLSL8Omxqg0ZWI5fHwmrDcvSBEXYrFAYLc1I'
+  config.access_token = '1029254814-wwNqEM0tZGLqYjsX2UE2alL6WeDesSJjmbNwAJM'
+  config.access_token_secret = 'orS4LUHPlp1p1n0D7xp46r9mLoqRuOpEGE5aC9PgDuIdW'
 end
 
 word = trollWords.sample
